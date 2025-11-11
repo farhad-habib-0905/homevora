@@ -5,7 +5,7 @@ import HowItWorks from '../components/HowItWorks'
 import Reviews from '../components/Reviews'
 import Contact from '../components/Contact'
 import { useEffect } from 'react'
-import '../styles/Home.css'
+import '../styles/home.css'
 
 
 export default function Home() {
