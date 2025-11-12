@@ -3,7 +3,7 @@ export default function Header() {
         <header>
             <div className="container nav">
                 <div className="brand">
-                    <img src="../public/assets/logo.png" alt="HomeVora.ai logo" />
+                    <img src="./public/assets/logo.png" alt="HomeVora.ai logo" />
                     <span className="name">HomeVora.ai</span>
                 </div>
                 <nav>
