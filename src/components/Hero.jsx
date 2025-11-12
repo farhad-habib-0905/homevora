@@ -17,7 +17,7 @@ export default function Hero() {
                     <div className="strip" style={{ marginTop: 16, fontSize: 14 }}>No contracts • Month-to-month • Transparent ROI dashboard</div>
                 </div>
                 <div className="card">
-                    <img className="dashboard" src="/assets/analytics-mockup.png" alt="HomeVora.ai analytics dashboard mockup" />
+                    <img className="dashboard" src="../public/assets/analytics.png" alt="HomeVora.ai analytics dashboard mockup" />
                 </div>
             </div>
         </section>
